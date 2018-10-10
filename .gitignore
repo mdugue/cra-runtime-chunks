@@ -7,7 +7,7 @@
 /coverage
 
 # production
-/build
+# /build NOTE: added build folder to the repo to showcase build behavior
 
 # misc
 .DS_Store
